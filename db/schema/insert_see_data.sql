@@ -18,3 +18,4 @@ INSERT INTO registros (sensor_id, valor) VALUES (1, 7.0);
 
 -- Insertar una lectura fuera del umbral (debe generar alerta)
 INSERT INTO registros (sensor_id, valor) VALUES (1, 9.5);
+
